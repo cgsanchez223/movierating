@@ -1,0 +1,30 @@
+div {
+    margin-top: 1em;
+} /* handles spacing between rating entries */
+
+.error {
+    color: crimson;
+    font-weight: bold;
+} /* if requirements of title and movie rating are not met, text changed to red to highlight error */
+
+form {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px
+}
+
+.formbutton {
+    margin-left: 0.5em;
+    font-weight: bold;
+}
+
+.divx {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.remove {
+    margin-left: 7em;
+    font-weight: bold;
+    padding: 0em .75em;
+    align-self: right;
+}
